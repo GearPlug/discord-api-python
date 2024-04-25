@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "discord-api-python"
+name = "gp-discord-python"
 version = "0.1.0"
 description = "API wrapper for Discord written in Python"
 authors = ["Gearplug Apps <apps@gearplug.io>"]
